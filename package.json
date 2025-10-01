@@ -1,0 +1,18 @@
+{
+  "name": "ai-landing-page",
+  "version": "1.0.0",
+  "description": "Modern AI consulting landing page for small businesses",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "landing-page",
+    "consulting",
+    "small-business"
+  ],
+  "author": "",
+  "license": "MIT"
+}
