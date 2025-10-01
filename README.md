@@ -121,3 +121,4 @@ MIT License - feel free to use for your projects
 ## Support
 
 For issues or questions, please open an issue on the repository.
+# miami-dubai-ai-workshop
